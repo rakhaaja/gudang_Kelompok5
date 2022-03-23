@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052089592440",
+    "project_id": "gudang-ddbad",
+    "storage_bucket": "gudang-ddbad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052089592440:android:4c680e9146a34ea0fb1b8d",
+        "android_client_info": {
+          "package_name": "com.example.gudang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052089592440-9fo2rbrr1cmlpa049q6usrk74kbq4aiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4X1f1NI9CCejB0-2Lk0GY_uBLTd-j20o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052089592440-9fo2rbrr1cmlpa049q6usrk74kbq4aiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
